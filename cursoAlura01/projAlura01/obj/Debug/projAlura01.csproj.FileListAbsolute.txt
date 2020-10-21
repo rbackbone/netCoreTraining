@@ -1,0 +1,7 @@
+C:\NovoG\Dev\source\CursoCS\cursoAlura01\projAlura01\bin\Debug\projAlura01.exe.config
+C:\NovoG\Dev\source\CursoCS\cursoAlura01\projAlura01\bin\Debug\projAlura01.exe
+C:\NovoG\Dev\source\CursoCS\cursoAlura01\projAlura01\bin\Debug\projAlura01.pdb
+C:\NovoG\Dev\source\CursoCS\cursoAlura01\projAlura01\obj\Debug\projAlura01.csprojAssemblyReference.cache
+C:\NovoG\Dev\source\CursoCS\cursoAlura01\projAlura01\obj\Debug\projAlura01.csproj.CoreCompileInputs.cache
+C:\NovoG\Dev\source\CursoCS\cursoAlura01\projAlura01\obj\Debug\projAlura01.exe
+C:\NovoG\Dev\source\CursoCS\cursoAlura01\projAlura01\obj\Debug\projAlura01.pdb
